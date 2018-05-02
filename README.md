@@ -6,5 +6,6 @@
 
 ## Install
 
->&gt; gem install -f --local --no-rdoc --no-ri bundler-1.16.1.gem
->&gt; bundle install --local
+>cmd&gt; gem install -f --local --no-rdoc --no-ri bundler-1.16.1.gem
+>
+>cmd&gt; bundle install --local
